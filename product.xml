@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<productListing title="My Products">
+    <product>
+        <name>Product One</name>
+        <description>The first product</description>
+        <cost>$19.95</cost>
+        <shipping>$2.95</shipping>
+    </product>
+    <product>
+        <name>Product Two</name>
+        <description>The second product</description>
+        <cost>15$</cost>
+        <shipping>3$</shipping>
+    </product>
+    <product>
+        <name>Product Three</name>
+        <description>The third product</description>
+        <cost>55$</cost>
+        <shipping>5$</shipping>
+    </product>
+</productListing>
