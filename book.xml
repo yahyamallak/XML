@@ -11,7 +11,7 @@
     <book>
         <title>Beautiful Mary</title>
         <description>The beautiful girl in the world</description>
-        <author>Jasmine Toe</author>
+        <author/> <!-- Unkown author -->
         <price>$20.5</price>
     </book> 
 </Books>
