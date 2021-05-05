@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<personAll xmlns:allData="https://www.yahyamallak.tv/example">
+    <name>Yahya</name>
+    <email>contact@yahya.com</email>
+    <allData:name>Ahmed</allData:name>
+</personAll>
