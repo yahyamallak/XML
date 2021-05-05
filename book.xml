@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 
 <Books title="My Books">
-    <book>
+    <book1>
         <title>King Jon</title>
         <description>The first King in Morocco</description>
         <author>John Doe</author>
         <price>$12.95</price>
-    </book>
+    </book1>
 
-    <book>
+    <book2>
         <title>Beautiful Mary</title>
         <description>The beautiful girl in the world</description>
         <author/> <!-- Unkown author -->
         <price>$20.5</price>
-    </book> 
+    </book2> 
 </Books>
