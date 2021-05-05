@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<!DOCTYPE Allpersons SYSTEM "person.dtd">
+
+<Allpersons>
+    <person>
+        <name>Yahya</name>
+        <email>contact@yahya.com</email>
+        <phone>15001458</phone>
+    </person>
+</Allpersons>
