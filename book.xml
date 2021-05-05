@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<Books title="My Books">
+    <book>
+        <title>King Jon</title>
+        <description>The first King in Morocco</description>
+        <author>John Doe</author>
+        <price>$12.95</price>
+    </book>
+
+    <book>
+        <title>Beautiful Mary</title>
+        <description>The beautiful girl in the world</description>
+        <author>Jasmine Toe</author>
+        <price>$20.5</price>
+    </book> 
+</Books>
