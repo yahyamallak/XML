@@ -4,6 +4,6 @@ XML exercices
 Infos :
 ---
 
-*Descriptive language
-*Case sensitive
-*more secure 
+- Descriptive language
+- Case sensitive
+- more secure 
